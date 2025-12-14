@@ -265,6 +265,7 @@ p{
         padding: 0;
 
     }
+    
     #home .home-content{
         flex-direction: column-reverse;
         gap: 0;
